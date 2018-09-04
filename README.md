@@ -1,3 +1,5 @@
+Just a clone fork of https://github.com/michmech/lemmatization-lists to ensure preservation.
+
 # Lemmatization Lists
 
 These are large-coverage, machine-readable lemma/token pairs in several languages which I have collected (legally) from various sources, mostly as part of my work on the Global Glossary project. I use these for query expansion during fulltext searches: if a user searches for the lemma walk, the query is expanded to also search for the tokens walking, walked etc.
